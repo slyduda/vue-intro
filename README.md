@@ -5,8 +5,8 @@ Hey all! 👋
 
 Thanks for joining! My name is Sylvester and I'm putting this small project together to help aspiring developers figure out how to get started. Over the course of my streams I'll be going through the following to help you build a web application from scratch.
 
-## 10/15/2020
-### Basics
+## The Basics - 10/15/2020
+
 #### Prerequisites
 Visual Studio Code - We will be using VSCode during the course of this series, but feel free to use whatever IDE you are most comfortable with. 
 
