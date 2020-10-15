@@ -7,7 +7,6 @@ Thanks for joining! My name is Sylvester and I'm putting this small project toge
 
 ## 10/15/2020
 ### Basics
------
 #### Prerequisites
 Visual Studio Code - We will be using VSCode during the course of this series, but feel free to use whatever IDE you are most comfortable with. 
 
